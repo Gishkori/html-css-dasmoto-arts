@@ -1,0 +1,42 @@
+.store-front-name {
+    background-image: url("/resources/image/pattern.webp");
+    text-align: center;
+    height: 120px;
+    margin: 20px auto;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+}
+
+.unit-price {
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    color: blue;
+}
+
+.brushes-heading {
+    background-color: mediumspringgreen;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.frames-heading {
+    background-color: lightcoral;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
+.paint-heading {
+    background-color: skyblue;
+    font-family: Helvetica, sans-serif;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+}
+
